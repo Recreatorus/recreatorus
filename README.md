@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://recreatorus.github.io/img/readme.gif" width="100%"/>
+  <img src="https://recreatorus.github.io/img/readme.gif" width="400px"/>
 </div>
 <!--
 **Recreatorus/recreatorus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
