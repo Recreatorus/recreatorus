@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   <img src="https://recreatorus.github.io/img/readme.gif" width="400px" height="auto"/>
-  
+  <br />
   <img src="https://komarev.com/ghpvc/?username=recreatorus&style=flat-square&color=blue" alt=""/>
   <h1>
   Hey there
