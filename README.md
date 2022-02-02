@@ -9,7 +9,9 @@
 </h1>
 </div>
 
-I am a Frontend Developer from Russia
+- I am a Frontend Developer from Russia
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=recreatorus&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Recreatorus/recreatorus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
