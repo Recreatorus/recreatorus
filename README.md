@@ -1,8 +1,9 @@
 
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://recreatorus.github.io/img/readme.gif" width="400px"/>
+  <img src="https://recreatorus.github.io/img/readme.gif" width="400px" height="auto"/>
 </div>
+<img src="https://komarev.com/ghpvc/?username=recreatorus&style=flat-square&color=blue" alt=""/>
 <!--
 **Recreatorus/recreatorus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
